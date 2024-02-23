@@ -4,7 +4,8 @@
 - O que é: Um programa de baixa complexidade que utiliza a estrutura ArrayList, adcionando e removendo elementos em seu espaço de memória.
 - Temas envolvidos:
   - List;
+  - Wrapper;
   - Criação de objeto;
   - Métodos: '.get(index)', '.add()' e '.remove(ixdex)';
   - Saída de dados: System.out.println();
-  - Biblioteca: java.util.ArrayList
+  - Biblioteca: java.util.ArrayList;
